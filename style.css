@@ -361,7 +361,7 @@ font-family: 'Work Sans',sans-serif;
         height: 400px;
     }
     .banner-display h1{
-        margin: 60% 0 5% 35%;
+        margin: 50% 0 5% 34%;
         font-size: 50px;
         color: white;
     }
@@ -375,7 +375,7 @@ font-family: 'Work Sans',sans-serif;
     }
     .container div{
         width: 100%;
-        margin: 6% 0 0% 0;
+        margin: 6% 0 15% 0;
     }
     .intro-to-section{
         margin: 10% 0 5% 0;
@@ -391,7 +391,7 @@ font-family: 'Work Sans',sans-serif;
         height: 480px;
         /* border: 1px solid rgba(255, 166, 0, 0.352); */
         margin-left: 15%;
-        margin-top:3%;
+        margin-top:7%;
         margin-bottom: 10%;
         
     }
